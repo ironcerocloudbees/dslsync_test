@@ -1,5 +1,5 @@
 
-application 'app-c-test', {
+application 'app-a', {
 
   acl {
     inheriting = '1'
